@@ -25,7 +25,7 @@ public class MyFrame extends CalendarDate {
 	JButton rChangeMonth;
 	JButton lChangeYear;
 	JButton rChangeYear;
-	JLabel selectedMY;
+	JLabel selectedMY; //test
 	JPanel leftMidPanel;
 	JLabel weekDayName[];
 	JPanel leftSouthPanel;
